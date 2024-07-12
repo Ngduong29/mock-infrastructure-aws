@@ -1,0 +1,5 @@
+---
+- hosts: gitea_server
+  become: yes
+  roles:
+    - setup

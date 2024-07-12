@@ -1,0 +1,7 @@
+region                = "ap-southeast-1"
+vpc_cidr_block        = "10.0.0.0/16"
+public_subnet_cidr_block = "10.0.1.0/24"
+private_subnet_cidr_block = "10.0.3.0/24"
+ec2_ami               = "ami-0b287aaaab87c114d"
+ec2_instance_type     = "t2.medium"
+public_key = "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAILLbrPepmCMZmnrLnmcicdEo08aaKW3oZsuHfR5w3fmV HoangDuong@DESKTOP-KV1IRDG"
